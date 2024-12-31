@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    border: 1px solid black;
+    color: aqua;
+    background-color: bisque;
+}
+td,tr{
+border: 1px solid black;
+text-align: center;
+background-color: azure;
+}
+.excellent{
+    color: green;
+}
+.average{
+    color: blue;
+}
+.uff{
+    color: red;
+}
+.fifty{
+    color: blueviolet;
+}
